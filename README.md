@@ -1,4 +1,5 @@
 ## Just a student application 
+## Uses spring boot java 
 
 - spring.datasource.url=jdbc:postgresql://localhost:5432/student
 - spring.datasource.username=postgres
